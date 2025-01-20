@@ -1,0 +1,1 @@
+ _private dataset_ as data that the LLM is not trained on and has never seen before, such as an enterprise’s proprietary research, business documents, or communications.
